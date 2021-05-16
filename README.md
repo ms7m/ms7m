@@ -3,10 +3,12 @@
   <a href="https://ms7m.me">
     <img
       alt="Website"
-      src="https://ms7m.me/dist/img/hero.png"
+      src="https://tupac.ishidingin.africa/sc/github.png"
     />
   </a>
 </p>
 
 ***
-https://ms7m.me
+<p align="center">
+  https://ms7m.me
+</p>
